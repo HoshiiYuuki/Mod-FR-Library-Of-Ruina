@@ -7,7 +7,7 @@ Mod de traduction français fait par des bénévoles pour le jeu "Library Of Rui
 **_Suivez bien les étapes une par une pour ne pas faire d'erreur !!!_**</br>
 
 ### Etape 1 :
-- Installez le fichier ressource.assets disponible [ici](../../releases)</br>
+- Installez le fichier ressource.assets disponible [ici](../../releases) en cliquant sur `ressource.assets`</br>
 
 ### Etape 2 :
 - Allez dans les fichiers du jeu, ouvrez le dossier "LibraryOfRuina_Data", copiez le fichier "ressource.asset" de ce dossier et mettez le en sécurité autre part au cas où un problème surviendrez</br>
